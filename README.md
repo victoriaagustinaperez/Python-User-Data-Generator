@@ -11,7 +11,8 @@ The instructions to set up and utitilize the program are:
 1. Download iotapp.py file onto your local system.
 2. To execute file, in Anaconda Prompt, locate directory where file was downloaded and enter script:
 >>> python iotapp.py
-3.  The file menu contains two sections: 'Create' and 'Statistics'..
+3.  The file menu contains two sections: 'Create' and 'Statistics'
+
     Under 'Create', find options: 
         'Generate fake IoT user data', 
         'Save as JSON',
