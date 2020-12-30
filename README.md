@@ -17,6 +17,7 @@ The instructions to set up and utitilize the program are:
         'Save as JSON',
         'Save as CSV',
          and 'Exit'
+         
     Under 'Statistics', find options: 
         'Plot A - histogram - outside temp',
         'Plot B - line graph - outside vs room temp',
